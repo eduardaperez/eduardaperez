@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Eduarda Perez. 👋
 
 <!--
 **eduardaperez/eduardaperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
