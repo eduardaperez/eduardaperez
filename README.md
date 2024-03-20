@@ -22,12 +22,5 @@
   <img align="right" height="150em" alt="eduardagif" src="https://media.discordapp.net/attachments/879087780460920836/1219806008239591434/Untitled_Made_with_FlexClip_1.gif?ex=660ca3df&is=65fa2edf&hm=27ce08ab40d2756c328ed5faa8086014b54bdcbb91db12090be4dde15a6c7a27&=&width=389&height=389" />
 </div>
 
-##
+![Snake animation](https://github.com/eduardaperez/eduardaperez/blob/output/github-contribution-grid-snake.svg)
 
-<div >
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardaperez/eduardaperez/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardaperez/eduardaperez/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eduardaperez/eduardaperez/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
