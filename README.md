@@ -1,16 +1,32 @@
-### Hi there! I'm Eduarda Perez. 👋
+### Olá! Eu sou a Eduarda Perez ✨
 
-<!--
-**eduardaperez/eduardaperez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estudando Análise e Desenvvolvimento de Sistemas
+- 🌱 Aprendendo mais a cada dia Kotlin e Java
+- 😄 Pronouns: ela/dela
 
-Here are some ideas to get you started:
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=eduardaperez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaperez&layout=compact&theme=tokyonight&locale=pt-br"/>
+</div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,html,css,javascript,mysql" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div> 
+  <a href="https://instagram.com/eduarda.perezk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:c.eduardaperez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/eduarda-perezk" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  
+  
+</div>
+
+<div >
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardaperez/eduardaperez/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardaperez/eduardaperez/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eduardaperez/eduardaperez/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
