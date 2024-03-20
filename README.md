@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Eduarda Perez ✨
 
-- 🔭 Estudando Análise e Desenvvolvimento de Sistemas
-- 🌱 Aprendendo mais a cada dia Kotlin e Java
+- 🔭 Estudante de Análise e Desenvvolvimento de Sistemas
+- 🌱 Aprofundando em Kotlin e Java
 - 😄 Pronouns: ela/dela
 
 <div align="center">
