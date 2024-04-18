@@ -10,7 +10,6 @@
   <br>
   
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=eduardaperez&show_icons=true&theme=tokyonight&locale=pt-br"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaperez&layout=compact&theme=tokyonight&locale=pt-br"/>
 </div>
 <br>
 
