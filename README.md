@@ -6,8 +6,9 @@
   
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,html,css,javascript,mysql" />
+  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,html,css,javascript,mysql" />
   <br>
+  
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=eduardaperez&show_icons=true&theme=tokyonight&locale=pt-br"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaperez&layout=compact&theme=tokyonight&locale=pt-br"/>
 </div>
