@@ -1,6 +1,6 @@
 ### Olá! Eu sou Eduarda Perez ✨
 
-- 🔭 Estudante de Análise e Desenvolvimento de Sistemas
+- 🔭 Estudante de Engenharia de Software
 - 🌱 Aprofundando conhecimento em linguagens Kotlin e Java
 - 😄 Pronomes: ela/dela
   
