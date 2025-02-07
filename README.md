@@ -1,7 +1,7 @@
 ### Olá! Eu sou Eduarda Perez ✨
 
 - 🔭 Estudante de Engenharia de Software
-- 🌱 Aprofundando conhecimento em linguagens Kotlin e Java
+- 🌱 Aprofundando conhecimento em Front-end
 - 😄 Pronomes: ela/dela
   
 <br>
