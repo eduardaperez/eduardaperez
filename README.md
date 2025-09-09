@@ -7,6 +7,10 @@ Sou estudante de Engenharia de Software com foco em desenvolvimento Front-end. A
 
 ### 👩‍💻 Sobre mim
 
+<div>
+    <img align="right" height="150em" alt="eduardagif" src="https://media.discordapp.net/attachments/705925818420953209/1219805747370659972/Untitled_Made_with_FlexClip_1.gif?ex=68c16fe1&is=68c01e61&hm=28f8bf708464a748699a4a98a1a90e5bc87e7eb50288c8934698686a64580c37&=" />
+</div>
+
 - 🎓 Atualmente cursando Engenharia de Software.
 - 🌱 Aprofundando conhecimento em Front-end.
 - 📍 Localizada em Curitiba/PR.
@@ -39,9 +43,6 @@ Sou estudante de Engenharia de Software com foco em desenvolvimento Front-end. A
 <br>
 
 ##
-<div>
-    <img align="right" height="150em" alt="eduardagif" src="https://media.discordapp.net/attachments/705925818420953209/1219805747370659972/Untitled_Made_with_FlexClip_1.gif?ex=68c16fe1&is=68c01e61&hm=28f8bf708464a748699a4a98a1a90e5bc87e7eb50288c8934698686a64580c37&=" />
-</div>
 
 ### 📬 Entre em Contato
 
@@ -57,4 +58,7 @@ Sou estudante de Engenharia de Software com foco em desenvolvimento Front-end. A
 
 ---
 
-Feito com ❤️ por **Eduarda Perez**
+<div align="right">
+  <p>Feito com ❤️ por <strong>Eduarda Perez</strong></p>
+</div>
+
