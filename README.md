@@ -1,12 +1,14 @@
 ### Olá! Eu sou Eduarda Perez ✨
 
-- 🔭 Estudante de Engenharia de Software
+- 💻 Estudante de Engenharia de Software
 - 🌱 Aprofundando conhecimento em Front-end
+- 📖 Sempre aberta a novos aprendizados
 - 😄 Pronomes: ela/dela
   
 <br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,html,css,javascript,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,mysql" />
+  <!--estudando para inserir: react,reactnative,kotlin,androidstudio,c#,-->
   <br>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=eduardaperez&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&locale=pt-br"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardaperez&layout=compact&show_icons=true&theme=tokyonight&locale=pt-br"/>
@@ -15,7 +17,7 @@
 
 ##
 <div>
-    <img align="right" height="150em" alt="eduardagif" src="https://media.discordapp.net/attachments/879087780460920836/1219806008239591434/Untitled_Made_with_FlexClip_1.gif?ex=660ca3df&is=65fa2edf&hm=27ce08ab40d2756c328ed5faa8086014b54bdcbb91db12090be4dde15a6c7a27&=&width=389&height=389" />
+    <img align="right" height="150em" alt="eduardagif" src="https://media.discordapp.net/attachments/705925818420953209/1219805747370659972/Untitled_Made_with_FlexClip_1.gif?ex=68c16fe1&is=68c01e61&hm=28f8bf708464a748699a4a98a1a90e5bc87e7eb50288c8934698686a64580c37&=" />
 </div>
 
 ### Contato:
