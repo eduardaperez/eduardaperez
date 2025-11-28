@@ -25,14 +25,14 @@ Sou estudante de Engenharia de Software com foco em desenvolvimento Front-end. A
 
 <div>
   <br>
-  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,mysql" />
+  <img src="https://skillicons.dev/icons?i=javascript,html,css,python,java,mysql" />
   <!--estudando para inserir: react,reactnative,kotlin,androidstudio,c#,-->
 </div>
 
 <br>
 
 ##
-
+<!--
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -43,12 +43,10 @@ Sou estudante de Engenharia de Software com foco em desenvolvimento Front-end. A
 <br>
 
 ##
-
+-->
 ### 📬 Entre em Contato
 
 <div> 
-  <a href="https://instagram.com/eduarda.perezk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <br>
   <a href = "mailto:c.eduardaperez@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <br>
   <a href="https://www.linkedin.com/in/eduarda-perezk" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
